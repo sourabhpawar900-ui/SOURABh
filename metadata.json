@@ -1,0 +1,7 @@
+{
+  "name": "NanoEdit AI",
+  "description": "A real-time image editing application powered by Gemini, featuring advanced voice-controlled editing commands.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
